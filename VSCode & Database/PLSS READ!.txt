@@ -3,3 +3,5 @@ ung sa vscode lilipat mo ung "Soulmate" na folder sa "xampp/htdocs/"
 bali yung image may mga steps na 
 
 
+tas ung huling gagawin mo yung sa may CRUD.java sa android studio papalitan mo ung ip address bali sa cmd yun
+
